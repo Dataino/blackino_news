@@ -18,6 +18,12 @@ body {
 	margin: 0 auto; 
 	width: 70%;
 }
+
+.body2 {
+	clear: both; 
+	margin: 0 auto; 
+	width: 70%;
+}
 	
 /* ===========================
    ========= Headings ======== 
@@ -173,8 +179,8 @@ a:hover, a:active {
 	margin-bottom: 2%;
 }
 
-.middle-sidebar {
-	width: 24%;
+.top-sidebar2 {
+	width: 13%;
 	float: left;
 	margin-left: 2%;
 	border-radius: 5px;
@@ -186,7 +192,46 @@ a:hover, a:active {
 	margin-bottom: 2%;
 }
 
+.middle-sidebar {
+	width: 28%;
+	float: left;
+	margin-left: 2%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
+	background-color: #FFF;
+	box-shadow: 2px 4px 5px;	
+	padding: 1% 1%;
+	margin-bottom: 2%;
+}
+
+.middle-sidebar2 {
+	width: 64%;
+	float: left;
+	margin-left: 2%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
+	background-color: #FFF;
+	box-shadow: 2px 4px 5px;	
+	padding: 1% 1%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+
 .bottom-sidebar {
+	width: 24%;
+	float: left;
+	margin-left: 2%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
+	background-color: #FFF;
+	box-shadow: 2px 4px 5px;	
+	padding: 2% 3%;
+}
+
+.bottom-sidebar2 {
 	width: 24%;
 	float: left;
 	margin-left: 2%;
