@@ -146,6 +146,17 @@ a:hover, a:active {
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;	
 	padding: 3% 5%;
+	margin-bottom: 3%;
+}
+
+.Summery {
+	background-color: #FFF;
+	box-shadow: 2px 4px 5px;	
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
+	padding: 3% 5%;
+	margin-bottom: 3%;
 }
 
 .content {
